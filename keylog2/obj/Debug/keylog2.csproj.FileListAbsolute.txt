@@ -1,0 +1,6 @@
+D:\C#\keylog2\keylog2\bin\Debug\keylog2.exe.config
+D:\C#\keylog2\keylog2\bin\Debug\keylog2.exe
+D:\C#\keylog2\keylog2\bin\Debug\keylog2.pdb
+D:\C#\keylog2\keylog2\obj\Debug\keylog2.csprojResolveAssemblyReference.cache
+D:\C#\keylog2\keylog2\obj\Debug\keylog2.exe
+D:\C#\keylog2\keylog2\obj\Debug\keylog2.pdb
